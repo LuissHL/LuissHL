@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @1NYC-luizin
-- 👀 I’m interested in work
-- 🌱 I’m currently learning several languages
+# Hello, my name is Luis!! 
+Welcome to my GitHub profile 👋
+- 🌱 I’m currently learning English
 - 💞️ I’m looking to collaborate on some company
 - 📫 How to reach me, by gmail: luisderose1@gmail.com
 
