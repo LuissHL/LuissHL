@@ -16,7 +16,7 @@ Welcome to my GitHub profile 👋
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-  <img align="right" height="200" alt="Luis-ban" src="https://thumbs.gfycat.com/SingleGiganticBunny-size_restricted.gif">
+
 </div>
 
 ##
