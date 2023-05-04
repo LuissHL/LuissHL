@@ -1,8 +1,8 @@
 ## Hello, my name is Luis!! 
 Welcome to my GitHub profile 👋
-- 🌱 I’m currently learning English
-- 💞️ I’m looking to collaborate on some company
-- 📫 How to reach me, by gmail: luisderose1@gmail.com
+-  📚 I’m currently learning English
+-  💻 Studying front-end and back-end
+-  👨🏽‍💻 knowledge is never too much
 
  <div>
   <a href="https://github.com/LuissHL">
