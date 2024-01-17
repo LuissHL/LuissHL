@@ -1,9 +1,9 @@
-## Hello, my name is Luis!! 
-Welcome to my GitHub profile 👋
--  📚 I’m currently learning English
--  💻 Studying front-end and back-end
--  👨🏽‍💻 knowledge is never too much
+# Hi there 👋 Welcome to my GitHub profile!
 
+## 🙍 About me:
+
+- 📚 I’m currently learning Java and SpringBoot
+- 👨🏽‍💻  Studying front-end and back-end,  knowledge is never too much
  <div>
   <a href="https://github.com/LuissHL">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuissHL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
