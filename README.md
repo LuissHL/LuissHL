@@ -1,13 +1,24 @@
-# Hi there 👋 Welcome to my GitHub profile!
+# Hey there👋, Welcome to my Github Profile
+  <p>- <i>If you only do what you can do, you will never be more than who you are.</i> </p>
 
-## 🙍 About me:
 
-- 📚 I’m currently learning Java and SpringBoot
-- 👨🏽‍💻  Studying front-end and back-end,  knowledge is never too much
- <div>
-  <a href="https://github.com/LuissHL">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuissHL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=LuissHL" height="170" alt="languages graph"  />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" align="right" />
+
+## 🙋‍♂️ About Me
+
+</br>
+
+- ⚡ I believe in hard work and persistence
+- 📚  I’m currently learning ... Java and SpringBoot.
+- 📫 How to reach me -> <a href="https://wa.me/557196694578"> ![WPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a> & <a href="https://www.linkedin.com/in/luis-henriquee">![LKD](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<hr>
+</br>
+<div align="center">
+ <img src="https://readme-stats.nbank.dev/api/top-langs/?username=LuissHL&layout=compact&theme=dark" style="width: 400px;">
+</div>
+
+<tr>
 
 </div>
 <div style="display: inline_block"><br>
