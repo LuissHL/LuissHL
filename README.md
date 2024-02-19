@@ -9,7 +9,7 @@
 </br>
 
 - ⚡ I believe in hard work and persistence
-- 📚  I’m currently learning ... Java and SpringBoot.
+- 📚  I’m currently learning ... Java
 - 📫 How to reach me -> <a href="https://wa.me/557196694578"> ![WPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a> & <a href="https://www.linkedin.com/in/luis-henriquee">![LKD](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <hr>
